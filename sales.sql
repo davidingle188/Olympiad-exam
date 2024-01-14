@@ -34,4 +34,3 @@ group by sl.roll_number, sl.student_name, sl.class, sl.section, sl.school_name)
 --select * from student_response
 --select * from correct_answer
 --Select * from question_paper_code
---sl.roll_number, sl.student_name, sl.class, sl.section, sl.school_name
